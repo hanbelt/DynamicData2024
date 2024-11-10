@@ -1,0 +1,108 @@
+{
+
+    "title":"Shopping in Paris", 
+    "abstract": "Shopping in Paris is an experience that blends elegance, fashion, and artistry. From high-end boutiques on the Champs-Élysées to the luxury designer stores of Rue Saint-Honoré, Paris offers a world-class selection for fashion lovers. Explore the unique shops and artisan ateliers in Le Marais for one-of-a-kind finds, or browse the covered passages for vintage treasures and charming bookstores. Paris’s renowned department stores are perfect for those looking to shop under stunning architecture. Whether you're after couture or quaint Parisian souvenirs, shopping in Paris is a celebration of style and culture.", 
+    "image": "/images/pages/shopping/shopping.jpeg", 
+    
+
+    "services": [
+        {
+            "title": "Personal Shopping Experience",
+            "intro": "", 
+            "list": [
+                "High Fashion Personal Shopper",
+                "Vintage and Thrift Shopping Guide", 
+                "Gourmet Food Shopping Tour",
+                "Local Artisan Visits"
+            ], 
+            "image": "/images/pages/shopping/services/personalshopper.jpeg"
+        },
+
+        {
+            "title": "Custom Crafting Workshops",
+            "intro": "", 
+            "list": [
+                "Fashion Design Workshop",
+                "Leather Goods Workshop", 
+                "Perfume Creation Workshop",
+                "Jewelry Making Class"
+            ], 
+            "image": "/images/pages/shopping/services/crafting.jpg"
+        },
+
+        {
+            "title": "Guided Shopping Tours",
+            "intro": "", 
+            "list": [
+                "Luxury Boutique Tour",
+                "Neighborhood Shopping Exploration", 
+                "Fashion History Tour",
+                "Seasonal Pop-Up Shop Tour"
+            ], 
+            "image": "/images/pages/shopping/services/shoptour.jpg"
+        },
+
+        {
+            "title": "Exclusive Events and Experiences",
+            "intro": "", 
+            "list": [
+                "Fashion Show Experience",
+                "Private Designer Meet-and-Greet", 
+                "Luxury Jewelry Viewing",
+                "Culinary Experience with a Chef"
+            ], 
+            "image": "/images/pages/shopping/services/excluevents.jpg"
+        }
+
+        
+    ],
+    "packages":[
+        {
+            "title": "Haute Couture Shopping Experience at Avenue Montaigne", 
+            "description": "This package includes a private tour of luxury boutiques like Chanel, Dior, and Saint Laurent on Avenue Montaigne, with a personal shopper to assist. Complete the experience with a complimentary champagne break at a nearby café.",
+            "image": "/images/pages/shopping/packages/haute.jpg",
+            "price": "950", 
+            "duration": "3 hours" 
+        },
+
+        {
+            "title": "Vintage Treasures in Le Marais", 
+            "description": "Embark on a guided shopping tour of Le Marais to explore charming boutiques, vintage shops, and artisanal stores. Enjoy exclusive discounts and a keepsake tote bag filled with curated Parisian finds from the area.",
+            "image": "/images/pages/shopping/packages/vintage.jpg",
+            "price": "530", 
+            "duration": "4 hours" 
+        }, 
+
+        {
+            "title": "French Jewelry Discovery at Place Vendôme", 
+            "description": "This package offers a private tour of the prestigious Place Vendôme, home to Paris’s finest jewelers, like Cartier and Van Cleef & Arpels. A gemologist will accompany you to discuss the craftsmanship and history behind each piece, with champagne served in-store.",
+            "image": "/images/pages/shopping/packages/jewelry.jpeg",
+            "price": "1200", 
+            "duration": "3 hours" 
+        },
+
+        {
+            "title": "Parisian Department Store Extravaganza", 
+            "description": "Spend a day at Galeries Lafayette or Le Bon Marché with VIP access, enjoying priority fitting rooms, personal shopping assistance, and a private lunch at the store’s exclusive restaurant with views over the city.",
+            "image": "/images/pages/shopping/packages/department.webp",
+            "price": "1000", 
+            "duration": "Full-day (6-8 hours)" 
+        },
+
+        {
+            "title": "Custom Handbag Workshop", 
+            "description": "Design your own handbag in a hands-on workshop with a Parisian leather artisan. Choose from high-quality leathers, colors, and styles, and take home a one-of-a-kind creation made to your specifications.",
+            "image": "/images/pages/shopping/packages/custombag.jpg",
+            "price": "750", 
+            "duration": "3 hours" 
+        },
+
+        {
+            "title": "Perfume and Skincare Tour of Saint-Germain", 
+            "description": "This package includes a private tour of high-end perfumeries and skincare boutiques in Saint-Germain-des-Prés, featuring personalized consultations, exclusive product samples, and a mini skincare workshop at an iconic Parisian brand.",
+            "image": "/images/pages/shopping/packages/perfumeskin.jpg",
+            "price": "650", 
+            "duration": "3 hours" 
+        }
+    ]
+}

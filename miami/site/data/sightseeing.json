@@ -1,0 +1,108 @@
+{
+
+    "title":"Sightseeing in Paris", 
+    "abstract": "Sightseeing in Paris is a captivating blend of history, art, and culture. Start with the Eiffel Tower for sweeping city views, then visit the Louvre to see masterpieces like the Mona Lisa. Admire Notre-Dame’s Gothic architecture and explore Montmartre’s charming streets up to the Sacré-Cœur Basilica. From the bustling Champs-Élysées to the quiet corners of the Latin Quarter, every part of Paris invites discovery and enchantment.", 
+    "image": "/images/pages/sightseeing/sightseeing.jpg", 
+    
+
+    "services": [
+        {
+            "title": "Private Guided Tours",
+            "intro": "", 
+            "list": [
+                "Historic Paris Walking Tour",
+                "Evening Seine River Cruise & Eiffel Tower Tour", 
+                "Montmartre Art & History Tour",
+                "Louvre Museum Private Tour"
+            ], 
+            "image": "/images/pages/sightseeing/services/tours.jpg"
+        },
+
+        {
+            "title": "Luxury Experiences",
+            "intro": "", 
+            "list": [
+                "Helicopter Tour Over Versailles",
+                "Paris by Vintage Car with Champagne", 
+                "Sunset Hot Air Balloon Ride over Paris’s Countryside",
+                "Parisian Gourmet Picnic in Jardin des Tuileries"
+            ], 
+            "image": "/images/pages/sightseeing/services/luxury.webp"
+        },
+
+        {
+            "title": "Cultural and Artistic Experiences",
+            "intro": "", 
+            "list": [
+                "Opera Garnier Backstage Tour",
+                "Cooking Class with a Parisian Chef", 
+                "Impressionist Art Tour in Giverny",
+                "Photography Workshop in Iconic Paris Locations"
+            ], 
+            "image": "/images/pages/sightseeing/services/culture.webp"
+        },
+
+        {
+            "title": "Day Trips from Paris",
+            "intro": "", 
+            "list": [
+                "Champagne Region Winery Tour",
+                "Versailles Palace and Gardens", 
+                "Château de Fontainebleau and Barbizon Village",
+                "Loire Valley Castles Tour"
+            ], 
+            "image": "/images/pages/sightseeing/services/daytrips.jpg"
+        }
+
+        
+    ],
+    "packages":[
+        {
+            "title": "Classic Paris Highlights", 
+            "description": "A full-day tour covering the Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, and a Seine River cruise.",
+            "image": "/images/pages/sightseeing/packages/classic.jpg",
+            "price": "350 per person", 
+            "duration": "Full-day (8 hours)" 
+        },
+
+        {
+            "title": "Romantic Paris", 
+            "description": "Evening strolls through Montmartre, a candlelit dinner cruise on the Seine, and a visit to the Eiffel Tower at sunset.",
+            "image": "/images/pages/sightseeing/packages/romantic.webp",
+            "price": "450 per couple", 
+            "duration": "Evening (5 hours)" 
+        }, 
+
+        {
+            "title": "Art & History Lovers", 
+            "description": "A half-day dedicated to exploring the Louvre, Musée d'Orsay, and Notre-Dame Cathedral, with insights into Paris's rich artistic legacy.",
+            "image": "/images/pages/sightseeing/packages/art.avif",
+            "price": "250 per person", 
+            "duration": "Half-day (4 hours)" 
+        }, 
+
+        {
+            "title": "Gourmet Paris Experience", 
+            "description": "A culinary journey including a guided tour of food markets, bakery stops, wine tastings, and dinner at a Michelin-starred restaurant.",
+            "image": "/images/pages/dining/services/gourmet.jpg",
+            "price": "500 per person", 
+            "duration": "Full-day (6 hours)" 
+        }, 
+
+        {
+            "title": "Hidden Gems of Paris", 
+            "description": "Explore off-the-beaten-path locations like Le Marais, Canal Saint-Martin, and secret gardens with a knowledgeable local guide.",
+            "image": "/images/pages/sightseeing/packages/hiddengems.webp",
+            "price": "200 per person", 
+            "duration": "Half-day (4 hours)" 
+        }, 
+
+        {
+            "title": "Family Fun in Paris", 
+            "description": "Family-friendly activities like a treasure hunt at the Louvre, visits to kid-friendly parks, and a fun Seine River cruise tailored for younger travelers.",
+            "image": "/images/pages/sightseeing/packages/familyfun.webp",
+            "price": "375 per family (up to 4 members)", 
+            "duration": "Full-day (6 hours)" 
+        } 
+    ]
+}

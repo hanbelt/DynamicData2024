@@ -1,0 +1,108 @@
+{
+
+    "title":"Dining in Paris", 
+    "abstract": "Dining in Paris is a culinary adventure filled with rich flavors and timeless traditions. From elegant Michelin-starred restaurants to cozy bistros, the city offers everything from gourmet French classics to innovative modern dishes. Enjoy flaky croissants and fresh pastries at a local bakery, or indulge in savory treats like coq au vin and escargot at a traditional brasserie. For a unique experience, explore the vibrant markets, where fresh ingredients inspire seasonal dishes. Dining in Paris isn’t just a meal; it’s a chance to savor the art and passion of French cuisine.", 
+    "image": "/images/pages/dining/dining.jpg", 
+    
+
+    "services": [
+        {
+            "title": "Gourmet Dining Experience",
+            "intro": "", 
+            "list": [
+                "Michelin-Star Restaurants",
+                "Private Chef Dinners at Home", 
+                "Wine Pairing Dinners",
+                "Rooftop Dining Experiences"
+            ], 
+            "image": "/images/pages/dining/services/gourmet.jpg"
+        },
+
+        {
+            "title": "Culinary Classes and Workshops",
+            "intro": "", 
+            "list": [
+                "French Pastry Class",
+                "Cooking Class with a Local Chef", 
+                "Cheese and Charcuterie Workshop",
+                "Bistro Cooking Class"
+            ], 
+            "image": "/images/pages/dining/services/cookingclass.jpg"
+        },
+
+        {
+            "title": "Unique Dining Experiences",
+            "intro": "", 
+            "list": [
+                "Dinner Cruise on the Seine",
+                "Dinner in a Historic Parisian Apartment", 
+                "Themed Dining Experience",
+                "Wine and Cheese Tasting Evening"
+            ], 
+            "image": "/images/pages/dining/services/unique.jpg"
+        },
+
+        {
+            "title": "Food Market Tours and Tastings",
+            "intro": "", 
+            "list": [
+                "Le Marais Food Tour",
+                "Rue Cler Market Tour", 
+                "Montmartre Food Adventure",
+                "Cooking and Market Tour Combo"
+            ], 
+            "image": "/images/pages/dining/services/market.jpg"
+        }
+
+        
+    ],
+    "packages":[
+        {
+            "title": "Epicurean Experience at Le Cinq", 
+            "description": "This package at the three-Michelin-starred Le Cinq restaurant at the Four Seasons Hotel George V includes a multi-course seasonal tasting menu, a private kitchen tour, and a curated wine pairing led by the head sommelier.",
+            "image": "/images/pages/dining/services/gourmet.jpg",
+            "price": "850 per person", 
+            "duration": "3 hours" 
+        }, 
+
+        {
+            "title": "Market and Dining Tour with Chef Alain Ducasse", 
+            "description": "Begin with a market tour led by the acclaimed chef Alain Ducasse or a member of his team, picking out ingredients, then enjoy an intimate, three-course lunch prepared with those items at one of Ducasse’s prestigious restaurants.",
+            "image": "/images/pages/dining/services/market.jpg",
+            "price": "1275 per person", 
+            "duration": "4.5 hours" 
+        }, 
+        
+        {
+            "title": "La Cuisine Paris Gastronomy Tour", 
+            "description": "This food tour and cooking class package includes a walk through the historic Latin Quarter with stops at artisanal shops, a private cooking lesson to prepare a traditional French meal, and a tasting session with local wines and cheeses.",
+            "image": "/images/pages/dining/services/cookingclass.jpg",
+            "price": "375 per person", 
+            "duration": "5 hours" 
+        },
+
+        {
+            "title": "Rooftop Dining Experience at L’Oiseau Blanc", 
+            "description": "Enjoy an unforgettable evening at L’Oiseau Blanc with a five-course meal featuring modern French cuisine. This package includes a window table with spectacular views of the Eiffel Tower and a personal sommelier to curate your wine selections.",
+            "image": "/images/pages/dining/services/unique.jpg",
+            "price": "500 per person", 
+            "duration": "3 hours" 
+        },
+
+        {
+            "title": "Michelin-Starred Progressive Dinner", 
+            "description": "Visit three Michelin-starred restaurants in a single evening, enjoying an appetizer, main course, and dessert at each location. The evening includes private transfers between venues and a guide who shares insights into the history of each establishment.",
+            "image": "/images/pages/dining/services/gourmet.jpg",
+            "price": "1500 per person", 
+            "duration": "5 hours" 
+        },
+
+        {
+            "title": "Champagne Tasting Dinner at Le Meurice", 
+            "description": "This package at Le Meurice offers an exquisite dinner with each course paired with a selection of rare champagnes. Hosted by an expert sommelier, the evening features a guided tasting of vintage bottles, with explanations of each pairing and the history behind each champagne.",
+            "image": "/images/pages/dining/packages/champagne.jpg",
+            "price": "975 per person", 
+            "duration": "3.5 hours" 
+        } 
+    ]
+}

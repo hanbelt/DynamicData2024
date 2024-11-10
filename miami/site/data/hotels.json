@@ -1,0 +1,109 @@
+{
+
+    "title":"Hotels in Paris", 
+    "abstract": "Hotels in Paris offer something for every traveler, from luxurious five-star accommodations to charming boutique stays. Many upscale hotels provide world-class amenities and stunning views of the city’s landmarks. Boutique hotels boast unique Parisian character, with elegant interiors, personalized service, and close proximity to cafes, galleries, and historical sites. Whether you’re looking for opulence or a cozy, stylish retreat, Paris’s hotels capture the city’s timeless charm and sophistication.", 
+    "image": "/images/pages/hotels/hotels.jpeg", 
+    
+
+    "services": [
+        {
+            "title": "Personalized Concierge Services",
+            "intro": "", 
+            "list": [
+                "Art & Culture Itinerary Planning",
+                "Exclusive Dining Reservations", 
+                "Private Tour Arrangements",
+                "In-Room Spa Treatments"
+            ], 
+            "image": "/images/pages/hotels/services/concierge.jpg"
+        },
+
+        {
+            "title": "Luxury Transportation Options",
+            "intro": "", 
+            "list": [
+                "Airport Transfers with Chauffeur",
+                "Vintage Car City Tour", 
+                "Exclusive Day Trips",
+                "Personal Driver for Shopping & Sightseeing"
+            ], 
+            "image": "/images/pages/hotels/services/luxtransport.jpeg"
+        },
+
+        {
+            "title": "Special In-Room Amenities",
+            "intro": "", 
+            "list": [
+                "Champagne & Macaron Welcome Gift",
+                "Parisian Breakfast on the Balcony", 
+                "Artisan Floral Arrangements",
+                "Custom Pillow and Fragrance Selection"
+            ], 
+            "image": "/images/pages/hotels/services/roomamen.jpg"
+        },
+
+        {
+            "title": "Private Cultural Experiences",
+            "intro": "", 
+            "list": [
+                "Cooking Class with a Michelin-Starred Chef",
+                "Private After-Hours Museum Tour", 
+                "Perfume-Making Workshop",
+                "Wine & Cheese Tasting"
+            ], 
+            "image": "/images/pages/hotels/services/privcultexp.jpg"
+        }
+
+
+        
+    ],
+    "packages":[
+        {
+            "title": "Romantic Getaway at Hôtel de Crillon", 
+            "description": "This package includes a welcome bottle of champagne, a rose petal turn-down service, breakfast in bed with views of the Place de la Concorde, and a sunset Seine River cruise for two. Ideal for couples seeking a luxurious, romantic escape in an iconic setting.",
+            "image": "/images/pages/hotels/packages/rosebed.webp",
+            "price": "3200", 
+            "duration": "2 nights" 
+        }, 
+
+        {
+            "title": "Cultural Escape at Le Meurice", 
+            "description": "Perfect for art and history lovers, this three-day package provides tickets to the Louvre and Musée d'Orsay, a private city tour with an art historian guide, and an evening at the Paris Opera. Enjoy complimentary access to the hotel’s art collection and a daily breakfast at the Michelin-starred restaurant.",
+            "image": "/images/pages/hotels/packages/cultescape.jpg",
+            "price": "4500", 
+            "duration": "3 days, 2 nights" 
+        }, 
+
+        {
+            "title": "Family Fun Stay at The Peninsula Paris", 
+            "description": "This family-friendly package includes a spacious family suite, daily breakfast, kid-friendly amenities, a customized treasure hunt within the hotel, and tickets to the nearby Jardin d'Acclimatation amusement park. Parents can relax with complimentary access to the rooftop garden, where kids can enjoy a scenic view of the Eiffel Tower.",
+            "image": "/images/pages/hotels/packages/penin.jpg",
+            "price": "3200", 
+            "duration": "3 days, 2 nights" 
+        },
+
+        {
+            "title": "Parisian Wellness Retreat at Hôtel Lutetia", 
+            "description": "Experience a wellness-focused stay at this historic Left Bank hotel. The package features access to the Akasha Holistic Wellbeing Center with daily yoga and meditation sessions, personalized spa treatments, and gourmet, health-conscious meals. End each day with a guided evening walk along the Seine.",
+            "image": "/images/pages/hotels/packages/lutetia.jpg",
+            "price": "5200", 
+            "duration": "4 days, 3 nights" 
+        }, 
+
+        {
+            "title": "Foodie’s Delight at Le Bristol Paris", 
+            "description": "A dream for culinary enthusiasts, this package includes a tasting menu at the three-Michelin-starred Epicure restaurant, a market tour with Le Bristol's chef, and an exclusive hands-on cooking class in the hotel’s kitchen. The package also includes daily breakfast and a pastry workshop at the hotel’s renowned café.",
+            "image": "/images/pages/hotels/packages/lebristol.jpg",
+            "price": "6000", 
+            "duration": "2 nights" 
+        }, 
+
+        {
+            "title": "Ultimate Luxury Experience at Shangri-La Hotel, Paris", 
+            "description": "For an unparalleled experience, stay in the Eiffel View Suite with private butler service, a chauffeured limousine for city tours, and an exclusive rooftop dinner with Eiffel Tower views. Guests also enjoy a helicopter tour over Paris and a private, after-hours museum tour.",
+            "image": "/images/pages/hotels/packages/shangri.webp",
+            "price": "9000", 
+            "duration": "3 nights" 
+        } 
+    ]
+}

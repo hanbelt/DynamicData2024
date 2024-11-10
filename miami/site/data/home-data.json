@@ -1,0 +1,108 @@
+{
+
+    "title":"Welcome to Paris", 
+    "abstract": "Paris, the City of Light, offers travelers an enchanting blend of culture, art, and romance. Visitors can immerse themselves in rich history, explore charming cobblestone streets, or enjoy a leisurely afternoon at one of the city’s famous cafes. From world-class shopping to savoring delectable pastries, Paris captivates the senses. This city is more than just a destination; it’s an unforgettable experience of elegance, tradition, and Parisian charm.", 
+    "image": "/images/pages/home/home.jpg", 
+    
+
+    "services": [
+        {
+            "title": "Transportation",
+            "intro": "Move around Paris with these services", 
+            "list": [
+                "Uber & Taxi",
+                "Bus", 
+                "Metro",
+                "RER Train"
+            ], 
+            "image": "/images/pages/home/services/transportation.jpg"
+        },
+
+        {
+            "title": "Language Resources",
+            "intro": "Use these resources to communicate with French speakers", 
+            "list": [
+                "Language Learning Apps",
+                "Online Courses", 
+                "Books & Textbooks",
+                "Local Language Schools"
+            ], 
+            "image": "/images/pages/home/services/language.jpeg"
+        },
+
+        {
+            "title": "Safety Tips",
+            "intro": "Follow these tips to stay safe in Paris", 
+            "list": [
+                "Be Aware of Your Surroundings",
+                "Use Reliable Transportation", 
+                "Secure Your Valuables",
+                "Stay Informed About Local Laws and Customs"
+            ], 
+            "image": "/images/pages/home/services/safety.jpg"
+        },
+
+        {
+            "title": "Fun Facts",
+            "intro": "Learn about the history of Paris with these resources", 
+            "list": [
+                "Paris earned its nickname, City of Lights, because it was one of the first cities in Europe to adopt gas street lighting.",
+                "There’s a hidden vineyard, Clos Montmartre, in the Montmartre neighborhood, producing limited wine annually, right in the middle of the city!", 
+                "Paris is known for being dog-friendly, and there are reportedly more dogs than children living in the city.",
+                "The Eiffel Tower can grow up to 6 inches in the summer due to the expansion of its iron in the heat."
+            ], 
+            "image": "/images/pages/home/services/funfacts.jpg"
+        }
+
+        
+    ],
+    "packages":[
+        {
+            "title": "Parisian Language Immersion Tour", 
+            "description": "Join a guided tour that combines language learning with sightseeing. Led by a bilingual Parisian guide, this package offers interactive lessons as you stroll through iconic areas like Le Marais and the Latin Quarter, with special emphasis on conversational French.",
+            "image": "/images/pages/home/services/language.jpeg",
+            "price": "$70 per person", 
+            "duration": "3 hours" 
+        },
+
+        {
+            "title": "Historical Secrets & French Expressions Walk", 
+            "description": "Discover intriguing stories behind Paris landmarks, like the Notre Dame and the Panthéon, while learning unique French expressions tied to the city's history. This walk includes fun anecdotes and phrases you can use in everyday conversations.",
+            "image": "/images/pages/home/packages/historypackage.jpg",
+            "price": "$50 per person", 
+            "duration": "2 hours" 
+        },
+
+        {
+            "title": "Safety Tips & City Insights Workshop", 
+            "description": "Perfect for newcomers, this workshop covers essential safety tips for navigating Paris confidently. Topics include common scams, safe neighborhoods, and tips for using public transport. The session also includes a brief overview of Paris’s history and how it shaped today’s city layout.",
+            "image": "/images/pages/home/services/safety.jpg",
+            "price": "$40 per person", 
+            "duration": "1.5 hours" 
+        },
+
+        {
+            "title": "Montmartre’s Art & Language Adventure", 
+            "description": "Explore Montmartre's artistic past while practicing key French vocabulary related to art and culture. Hear stories about famous artists and their lives in Paris while enhancing your language skills in a creative setting.",
+            "image": "/images/pages/home/packages/historyother.jpg",
+            "price": "$65 per person", 
+            "duration": "2.5 hours" 
+        },
+
+        {
+            "title": "French Language Class at a Historic Café", 
+            "description": "Experience a casual French language class held at one of Paris’s renowned historic cafés, such as Café de Flore. Learn essential French phrases, practice pronunciation, and enjoy a croissant as you pick up tips on French culture and etiquette.",
+            "image": "/images/pages/home/packages/historycafe.jpg",
+            "price": "$55 per person", 
+            "duration": "1.5 hours" 
+        },
+
+        {
+            "title": "Themed River Seine Cruise: Language and Legends", 
+            "description": "Glide along the River Seine while your guide shares legendary stories about Paris in both French and English. This bilingual experience not only highlights Paris’s history and fun facts but also teaches practical language phrases and expressions.",
+            "image": "/images/pages/home/packages/river.jpg",
+            "price": "$80 per person", 
+            "duration": "2 hours" 
+        }
+    ]
+}

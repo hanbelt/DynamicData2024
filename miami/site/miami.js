@@ -1,29 +1,121 @@
-//imports express into our project
-const express = require('express')
+// Sections descriptions:
 
+// About: 1 short paragraph per page
+
+// Services: Show at least 4 services per page
+
+// Packages: Show at least 6 packages per page
+
+// Gallery: Show at least 16 images per page 
+
+// imports express into our project 
+const express = require('express') 
+//create the express server inside a variable called app
 const app = express()
+//Specify static routes
+app.use(express.static('public'))
+// import a package for handlebars
+const expressHandlebars = require('express-handlebars')
+// make express use the handlebars template engine
+app.engine('handlebars',expressHandlebars.engine({
+    defaultLayout: 'main',
+}))
+app.set('view engine','handlebars')
 
-const PORT = process.env.port || 3000
-//process routes
+const PORT = process.env.port || 8080
+//Import app-wide data 
+const gallery = require("./data/gallery.json")
+//process routes before error
 
-//Handle the error first
 
-//NOT FOUND!
-app.use( (request, response)=>{ 
-    response.type('text/plain')
-    response.status(404)
-    response.send('404 not found')
+
+
+app.get('/',(request,response)=>{
+    console.log(gallery)
+    const data = require("./data/home-data.json")
+    response.render('landing',{
+        gallery, 
+        data
+    })
+})
+app.get('/dining',(request,response)=>{
+    console.log(gallery)
+    const data = require("./data/dining.json")
+    response.render('landing',{
+        gallery, 
+        data
+    })
+})
+app.get('/sightseeing',(request,response)=>{
+    console.log(gallery)
+    const data = require("./data/sightseeing.json")
+    response.render('landing',{
+        gallery, 
+        data
+    })
+})
+app.get('/hotels',(request,response)=>{
+    console.log(gallery)
+    const data = require("./data/hotels.json")
+    response.render('landing',{
+        gallery, 
+        data
+    })
+})
+app.get('/shopping',(request,response)=>{
+    console.log(gallery)
+    const data = require("./data/shopping.json")
+    response.render('landing',{
+        gallery, 
+        data
+    })
 })
 
-//SERVER ERROR :(
-    app.use((error, request, response, next)=>{
-        console.log(error.message)
-        response.type('text/plain')
-        response.status(404)
-        response.send('500 server error') 
-    })
 
-    app.listen(PORT, ()=>{
-        console.log('Express is running on http://localhost:${PORT} ')
-        console.log('Press ctrl-c to terminate')
+
+
+
+
+app.get('/about',(request,response)=>{
+    response.render('page',{
+        title:"About Miami",
+        abstract:"From the Miami Marlins to the Miami Heat, there's a lot to see. "
     })
+})
+
+app.get('/nightlife',(request,response)=>{
+    response.render('page',{
+        title:"Miami at Night",
+        abstract:"Stay away from South Beach!! "
+    })
+})
+
+
+
+app.get('/beaches',(request,response)=>{
+    response.type('text/plain')
+    response.send('Miami Beach and more!')
+})
+//this triggers a server error
+app.get('/history',(req,res)=>{
+    response.type('text/plain')
+    response.send('History of Miami')
+})
+//Handle the error first
+//NOT FOUND!
+app.use((request,response)=>{
+    response.status(404)
+    response.render('404')
+ })
+
+ //SERVER ERROR :(
+ app.use((error,request,response,next)=>{
+    console.log(error.message)
+    response.status(500)
+    response.render('500')
+ })
+
+ app.listen(PORT, ()=>{
+    console.log(`Express is running on http://localhost:${PORT} `)
+    console.log('Press ctrl-c to terminate')
+ })

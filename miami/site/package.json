@@ -17,6 +17,7 @@
   "author": "Hannah Belton",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.21.0"
+    "express": "^4.21.0",
+    "express-handlebars": "^8.0.1"
   }
 }
