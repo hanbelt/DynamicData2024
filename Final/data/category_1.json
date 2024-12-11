@@ -1,12 +1,14 @@
 {
+ 
     "products":[
         {
+            "title": "Hunters",
             "id":1,
             "category": 1, 
             "name":"Shelly",
             "Description": "Chelestina 5634378 AKA Shelly is simply a gem. Took her last rider (Who was one of assistant trainers) in her very first National Derby and placed top 4! Derbies aren’t all she can do! She will also pin in the hack in great company. And that is not all, she has also competed in the Maclays, the medals all over the USA! SO what is the catch, well this girl has already proven everything she has had to prove to us, and she doesn’t owe us anything anymore! So her owner is truly wanting the best for her and will be very picky on where she goes! As much as she wants her to keep showing, she wants her to be appreciated as a horse too, not just a show machine! Therefore we are looking for that one owner who will offer her turnouts, pamper her and bond with her instead of those busy show barns where horses are just numbers. At 11 years old and with no physical issues she has plenty more to give but we want to be selective on who gets to appreciate this much of a quality Horse. Shelly is 17 hands, a big mover with a huge stride and an even bigger heart, never misses a lead change, moves a 10 even in steel.  Located by Temecula.",
-            "Price": "175k sale", 
-            "image": "/", 
+            "Price": "$175k sale", 
+            "image": "/images/cat1/Shelly1.jpg", 
             "gallery": [
                 "/images/cat1/Shelly1.jpg", 
                 "/images/cat1/Shelly2.jpg", 
@@ -20,8 +22,8 @@
             "category": 1, 
             "name":"Center Stage",
             "Description": "Capital challenge, Kentucky, WEC Middleburg,.. you name it he has done it! Now ready to make his debut on the West Coast! Amateur miles in the 3′-3 '3, has done some derbies as well. Not spooky and very brave to the jump. Does best in a normal show program with normal prep and normal work week. Very automatic lead changes, and flawless flat foundation. Effortless to ride, rhythmical canter making his rider find all of the distances easily. Full set of x-rays available on file.",
-            "Price": "125k sale", 
-            "image": "/", 
+            "Price": "$125k sale", 
+            "image": "/images/cat1/cs1.jpeg", 
             "gallery": [
                 "/images/cat1/cs1.jpeg", 
                 "/images/cat1/cs2.jpeg", 
@@ -35,8 +37,8 @@
             "category": 1, 
             "name":"Figmen",
             "Description": "Winner at his first show ever! 5 year old big time hunter in the making, a brain that requires absolutely zero prep, the blood you wished every hunter had! Quiet, big stride and super fancy knees to jaws type! Absolutely nothing triggers this horse, a total born big derby type ! Measures a small 16 hands with a stout body. As lovely on the ground as he is under saddle. Will boost your confidence at every ride. A chance to team up with a reliable horse and climb the levels together. No bad habits or sourness to fix, a genuine, kind and eager young horse. Located by Temecula. Eligible 3 feet, scope for 3’6+ . All recent X-rays on file!",
-            "Price": "95k sale", 
-            "image": "/", 
+            "Price": "$95k sale", 
+            "image": "/images/cat1/figment1.jpg", 
             "gallery": [
                 "/images/cat1/figment1.jpg", 
                 "/images/cat1/figment2.jpg", 
@@ -51,7 +53,7 @@
             "name":"Circa 16 aka Harley",
             "Description": "We have a fun Jr/Ch hunter available for lease currently showing at Galway. Tons of miles and wins in the hunters with all level riders. Brave, steady, very quiet and laid back. Measures a small. At 8 Harley still has all of his dapples and is guaranteed to get you noticed! Ideal in the 3’3 and under divisions. Places in the hack as well! Auto everything, big stride, has shown all over on both coasts including Tryon and Thermal to name a few. Can be tried in Temecula the next 2 weeks. USEF 5736211",
             "Price": "$65k year lease", 
-            "image": "/", 
+            "image": "/images/cat1/harley1.jpeg", 
             "gallery": [
                 "/images/cat1/harley1.jpeg", 
                 "/images/cat1/harley2.jpeg", 
@@ -66,7 +68,7 @@
             "name":"Coleman",
             "Description": "5 year old flashy gelding, measures a small at 16 hands, the brain to make the best partner in the children and jr hunters down the road. Making his show debut this month at TVHNS. The best lead changes you would want, they were there from day one! (The best feeling ever when we found that out!) Super cute over fences, brave and very kind and willing. Currently coursing 2’9, showing scope for at least the 3’3. His chrome and personality just make him what everyone is looking for to play in the hunter right now! Build a strong bond with an up and coming young horse to create a solid partnership for the show ring! Located by Temecula and will be at the show the next 2 weeks! Comes with a brand new full set of X-rays!",
             "Price": "$85k sale", 
-            "image": "/", 
+            "image": "/images/cat1/Coleman1.jpeg", 
             "gallery": [
                 "/images/cat1/Coleman1.jpeg", 
                 "/images/cat1/Coleman2.jpeg", 
@@ -80,8 +82,8 @@
             "category": 1, 
             "name":"Fiorello Rouge aka Biggie",
             "Description": "Just in this gentle and talented 8 year old derby prospect! With a show record up to 140s in Europe, Biggie has all of the pieces to make his way up to the big hunter rings! Big strided, big hearted and very scopy! Safe enough for more timid riders as well as riders with big ambitions! Will also cross into the big Equ rings and USET thanks to his versatility! Push ride with carriage and a good balance, smooth mouth and gaits, good lead changes! Would consider a lease to right home! Located in Temecula for trials. USEF 5871563",
-            "Price": "125k sale", 
-            "image": "/", 
+            "Price": "$125k sale", 
+            "image": "/images/cat1/biggie1.jpg", 
             "gallery": [
                 "/images/cat1/biggie1.jpg", 
                 "/images/cat1/biggie2.jpg", 
@@ -95,8 +97,8 @@
             "category": 1, 
             "name":"Vagadam",
             "Description": "With placings in ALL of his classes, wins in the national derbies, Junior hunters and Children hunters. He recently broke his 3’6 eligibility and has won the Performance 3’6 green Hunters with Skylar Wireman. At 7 this year he is the best asset to add to your string and make yourself noticed! Judges love him and he always catches the eye. He has proven to be consistent, forgiving and is just an easy one to have at the show. Scope for the international derbies, places in the top 3 in the hack in good company. In other words he is the real deal! 16’2, fully vetted, USEF 5762388. Will be at DIHP for the entire circuit with Nick Haness.",
-            "Price": "150k sale", 
-            "image": "/", 
+            "Price": "$150k sale", 
+            "image": "/images/cat1/vagadam1.jpeg", 
             "gallery": [
                 "/images/cat1/vagadam1.jpeg", 
                 "/images/cat1/vagadam2.jpeg", 
@@ -110,8 +112,8 @@
             "category": 1, 
             "name":"Pop Smoke aka Dutch",
             "Description": "This horse is ready to prove himself in the hunter and equitation rings in the 3’3 and 3’6 divisions. Lots of scope and the best brain over spooky fences. Amateur ride to bring along, Dutch is comfortable on the flat and over fences and loves to take care of his riders. Push ride to boost a timid rider’s confidence. Very forgiving at the fence with a good sense of humor. 16’2 and 7 years old. Full vetting available on file. Available to be tried in Temecula, CA this summer.",
-            "Price": "85k sale", 
-            "image": "/", 
+            "Price": "$85k sale", 
+            "image": "/images/cat1/popsmoke1.jpeg", 
             "gallery": [
                 "/images/cat1/popsmoke1.jpeg", 
                 "/images/cat1/popsmoke2.jpeg", 
@@ -125,8 +127,8 @@
             "category": 1, 
             "name":"The Weekend",
             "Description": "Friday is an 8 year old Hanoverian gelding offered for sale. Friday has been consistently and successfully showing at the 2'6 level with an adult amateur and has stepped into the 3' professional ring with the same success. Friday is incredibly brave to the jumps, straight forward, easy lead change, and the hack winner in the very best company. He would excel with a junior or amateur in the 2'-3' as well as the derbies. Most recently Friday was Champion in the 3’ at OSF out of 35+.",
-            "Price": "110k sale", 
-            "image": "/", 
+            "Price": "$110k sale", 
+            "image": "/images/cat1/weekend1.jpg", 
             "gallery": [
                 "/images/cat1/weekend1.jpg", 
                 "/images/cat1/weekend2.jpg", 
@@ -140,8 +142,8 @@
             "category": 1, 
             "name":"Viscount Anthony",
             "Description": "2019 17.1 hand Belgian Warmblood Gelding. Viscount Anthony is an elegant 5-year-old gelding with all the makings of a future star in the hunter, derby, and equitation rings. By the legendary Vigo d’Arsouilles, this tall, athletic prospect is eye-catching with his floaty gaits and confident demeanor.Elegance and Athleticism: With his graceful movement and impressive scope, Viscount Anthony is well-suited for riders looking to make a statement in the ring. He handles new environments with ease, showing bravery and a willingness to adapt. Versatile Talent: Viscount Anthony’s steady rhythm and balanced gaits make him an ideal candidate for both hunter and equitation divisions. His natural elegance and steady attitude ensure that he’ll be noticed in any competition, and his athletic ability suggests he’ll excel in derbies as well. Ready for a Bright Future: With his noble appearance, athletic build, and calm mind, Viscount Anthony is set to become a standout. For riders with a vision for success, this impressive gelding is ready to shine.",
-            "Price": "50k sale", 
-            "image": "/", 
+            "Price": "$50k sale", 
+            "image": "/images/cat1/viscount1.jpg", 
             "gallery": [
                 "/images/cat1/viscount1.jpg", 
                 "/images/cat1/viscount2.jpg",
@@ -155,8 +157,8 @@
             "category": 1, 
             "name":"Donatello",
             "Description": "2008 16.0 hand Canadian Warmblood. Donatello is the perfect 2'6 teacher for any adult amateur or child looking to gain confidence with loads of experience in the show ring. He is a beautiful 2008 16hh Canadian Warmblood gelding (by Rocambole) imported from Canada after having successfully showed with top placings in the Children’s Hunters, several Children’s Medals, 3'3 Hunters as well as Open/Performance Hunter classes with a pro. He comes with two show records (Equine Canada & USEF). Hack winning movement, handsome, sweetest personality, and definitely a barn favorite. Offered for sale or lease due to no fault of his own as his owner is moving out of the country, but seeking the perfect forever home for this special boy! He has a beautiful jump and is safe. Located in Southwest Ranches, FL. Text for more information and videos",
-            "Price": "65k sale $45k year lease", 
-            "image": "/", 
+            "Price": "$65k sale $45k year lease", 
+            "image": "/images/cat1/Donatello1.jpg", 
             "gallery": [
                 "/images/cat1/Donatello1.jpg", 
                 "/images/cat1/Donatello2.jpg", 
@@ -170,8 +172,8 @@
             "category": 1, 
             "name":"Champagne Moon",
             "Description": "2014 16.2 hand Belgian Warmblood Mare. This BRAVE 10 yr old, 16.2 mare, has charisma, character and a great jump. We purchased her from the breeder one year ago with limited show experience, and she has exceeded all expectations this season. Currently coursing 3 ft hunters and equitation with a junior, with scope for the 3 '6. Excellent ground manners, loves kids. Very careful jump, has potential for all 3 rings. Amateur and kid friendly. Currently showing 3'0 or 0.90, 0.95m. 1-2 Years Showing",
-            "Price": "40k sale or 12k year lease", 
-            "image": "/", 
+            "Price": "$40k sale or $12k year lease", 
+            "image": "/images/cat1/champagne1.jpg", 
             "gallery": [
                 "/images/cat1/champagne1.jpg", 
                 "/images/cat1/champagne2.jpg", 

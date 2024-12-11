@@ -9,11 +9,11 @@
 //imports express into our project
 const express = require('express')
 
-const expressHandlebars = require('express-handlebars')
 
 const app = express()
 
-
+app.use(express.static('public'))
+const expressHandlebars = require('express-handlebars')
 //configure our express app to use handlebars
 app.engine('handlebars', expressHandlebars.engine({
     defaultLayout: 'main',
@@ -22,7 +22,7 @@ app.engine('handlebars', expressHandlebars.engine({
 app.set('view engine', 'handlebars')
 //ends handlebar configuration
 
-const PORT = process.env.port || 3000
+const PORT = process.env.port || 8080
 
 //Setup routes
 app.get("/", (req,res)=>{
@@ -61,6 +61,31 @@ app.get("/category_1/details/:id", (req,res)=>{
     })
     res.render('details',{"data":tempData})
 })
+
+//details page 
+app.get("/category_2/details/:id", (req,res)=>{
+    const data = require('./data/category_2.json')
+    //filter to get only the data that matches the ID
+    //temporary filter
+    var tempData = {}
+    tempData.products = data.products.filter((product)=>{
+        return product.id == req.params.id
+    })
+    res.render('details',{"data":tempData})
+})
+
+//details page 
+app.get("/category_3/details/:id", (req,res)=>{
+    const data = require('./data/category_3.json')
+    //filter to get only the data that matches the ID
+    //temporary filter
+    var tempData = {}
+    tempData.products = data.products.filter((product)=>{
+        return product.id == req.params.id
+    })
+    res.render('details',{"data":tempData})
+})
+
 
 //Cart data handling
 let cart = {"products":[]}

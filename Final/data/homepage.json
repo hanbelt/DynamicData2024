@@ -1,8 +1,9 @@
 {
-    "title":"Blackjack Farm Equine Sales", 
+    "title":"Welcome to Blackjack Farm!", 
     "image": "/images/drone.jpg",
     
-    "Featured Products": [
+    
+    "featured_products":[
         {
             "name": "Shelly",
             "image": "/images/cat1/Shelly1.jpg",
@@ -40,7 +41,7 @@
         }
     ],
 
-    "Featured Categories":[
+    "featured_categories":[
         {
             "category": "Hunter",
             "image": "/images/hunters.jpeg"

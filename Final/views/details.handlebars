@@ -1,11 +1,16 @@
-{{#each data.products}}
-{{this.image}}
-{{this.id}}  {{this.name}}  {{this.price}} <br>
+<div class="container text-center">
+  <div class="row">
+    {{#each data.products}}
+<div class="col">
+    <img class="img-fluid" src="{{this.image}}" alt="">
+
+ <h1>{{this.name}}</h1>  <h3>{{this.Price}}</h3> <p>{{this.Description}}</p><br>
     {{#each this.gallery}}
-    {{this}} <br>
-    {{/each}}
-    
-
-
-
+    <img class="img-fluid" src="{{this}}" alt=""> 
+        {{/each}}
+</div>
 {{/each}}
+  </div>
+</div>
+
+
