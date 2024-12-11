@@ -1,0 +1,8 @@
+{{#each data.products}}
+
+{{this.id}}  {{this.name}}  {{this.price}} <br>
+
+<a href="/category_{{this.category}}/details/{{this.id}}"> View product details</a><br>
+
+
+{{/each}}

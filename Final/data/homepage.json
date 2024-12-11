@@ -1,0 +1,60 @@
+{
+    "title":"Blackjack Farm Equine Sales", 
+    "image": "/images/drone.jpg",
+    
+    "Featured Products": [
+        {
+            "name": "Shelly",
+            "image": "/images/cat1/Shelly1.jpg",
+            "discipline": "Hunter"
+        },
+
+        {
+            "name": "Alvin",
+            "image": "/images/cat2/Alvin1.jpg",
+            "discipline": "Jumper"
+        },
+
+        {
+            "name": "Elvis",
+            "image": "/images/cat3/Elvis1.jpeg",
+            "discipline": "Equitation"
+        },
+
+        {
+            "name": "Center Stage",
+            "image": "/images/cat1/cs1.jpeg",
+            "discipline": "Hunter"
+        },
+
+        {
+            "name": "Contest Z",
+            "image": "/images/cat2/contestz1.jpeg",
+            "discipline": "Jumper"
+        },
+
+        {
+            "name": "Lady Killer DN",
+            "image": "/images/cat3/ladykiller1.jpg",
+            "discipline": "Hunter"
+        }
+    ],
+
+    "Featured Categories":[
+        {
+            "category": "Hunter",
+            "image": "/images/hunters.jpeg"
+        },
+
+        {
+            "category": "Jumper",
+            "image": "/images/jumpers.jpeg"
+        },
+
+        {
+            "category": "Equitation",
+            "image": "/images/equitation.jpg"
+        }
+
+    ]
+}

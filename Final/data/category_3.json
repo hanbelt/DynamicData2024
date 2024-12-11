@@ -1,0 +1,182 @@
+{
+    "products":[
+        {
+            "id":1,
+            "category": 3, 
+            "name":"Elvis",
+            "Description": "Meet Elvis — the horse you can learn on in the morning and take straight to the 3’6 ring an hour later. Reliable, talented, and absolutely a dream to ride, this guy will get you noticed this show season! What makes Elvis special? Beyond reliable in any situation — trailer him anywhere and jump right in. Jumps anything — has taken on 140s with ease and even a joke at that height! Super comfortable & light to ride — can go sharp & tight or loose & hunter-y, whatever you need. 17 hands, pitch black, with perfect auto lead changes. Well-schooled in dressage and equitation; knows all the technical turns and has a heart of gold. New set of perfect X-rays — passes any PPE with flying colors. 3 years old and already proven in the ring. Jumps open water and always ready to work. Whether you’re leasing or looking to buy, Elvis will give you the consistency and talent to stand out at your next show!",
+            "Price": "115k sale 75k year lease", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/Elvis1.jpeg", 
+                "/images/cat3/Elvis2.jpeg", 
+                "/images/cat3/Elvis3.jpeg", 
+                "/images/cat3/Elvis4.jpeg"
+            ]
+        },
+
+        {
+            "id":2,
+            "category": 3, 
+            "name":"Lady Killer DN",
+            "Description": "Are you a young rider with dreams of competing at the finals next year? Look no further—LadyKiller DN is here to help you achieve your goals! With impressive top placings in USET classes, the Foxfield Medal finals at the OAKS, and CPHA medals, LadyKiller DN is a winner in the making. 17.1 hands, jumps anything from anywhere, show miles in the 1m40s. Extremely handy, covering ground effortlessly while providing a soft jump. Perfectly equipped for international derbies and all the major finals. This is a unique chance to lease a top-caliber horse and team up for an outstanding 2025 season. Whether you’re aiming for finals or simply want to elevate your riding experience, LadyKiller DN has all the qualities you need to succeed.",
+            "Price": "125k year lease", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/ladykiller1.jpg", 
+                "/images/cat3/ladykiller2.jpg", 
+                "/images/cat3/ladykiller3.jpg", 
+                "/images/cat3/ladykiller4.jpg"
+            ]
+        },
+
+        {
+            "id":3,
+            "category": 3, 
+            "name":"Damocles",
+            "Description": "The most laid back drama free equitation horse with all the scope and heart to make it Maclay Finals. This horse truly has a heart of gold, has never said no in his life and will tolerate and try his best every single time. Show record in Europe in the 130s, scope for the international derbies, brave as can be, jumps open water, solid and stout to absorb any mistake. Everyone that gets to meet him falls in love, parents and trainers included. Good lead changes, big big stride, amazing and powerful gaits. 17 hands, big war horse type, will do best with a taller rider as he rides big, not for tiny peanuts! Would consider leasing to a program aiming for finals next year. Would do a lease option in the right barn. Located in Orange County. Fully vetted, never had maintenance.",
+            "Price": "200k sale $85k year lease", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/damocles1.jpg", 
+                "/images/cat3/damocles2.jpg", 
+                "/images/cat3/damocles3.jpg", 
+                "/images/cat3/damocles4.jpg"
+            ]
+        },
+
+        {
+            "id":4,
+            "category": 3, 
+            "name":"Flying Cornet",
+            "Description": "After a successful lease this summer, Flying cornet has now proven itself to be a great equitation jumper for an eager teen. Jumped the open water in the USET division, played over the spooky fences. With a show record up to 1m40, Fly has also proven himself to be a winner in the 1m30s with a great young rider last year, earning the division champion in his zone! Fly is now ready t g back on lease and or settle into his forever home. Ideal rider for him is an educated one, he is forgiving to the distance especially if you are his ride. Likes to be ridden with a leg to hand connection. Great lead changes, normal yearly maintenance, and all x rays on file.",
+            "Price": "75k sale $40k year lease", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/Flyingcornet1.jpg",
+                "/images/cat3/Flyingcornet2.jpg",
+                "/images/cat3/Flyingcornet3.jpg",
+                "/images/cat3/Flyingcornet4.jpg" 
+            ]
+        },
+
+        {
+            "id":5,
+            "category": 3, 
+            "name":"Chimney Rock",
+            "Description": "Looking for your next equitation partner? Chimney Rock (aka Caesar) is a 17-hand Holsteiner gelding with a big step and extremely brave making him the ideal choice for equitation riders. Known for his style, consistency, and willingness, Caesar is ready to help you excel in the ring. He’s a true partner who wants to form a strong bond with his person. Caesar can also double in the hunter or jumper rings, offering versatility for a rider looking to compete across disciplines. Currently showing 3'3 or 1.0m. 3+ Years Showing",
+            "Price": "112k sale $50k year lease", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/chimney1.jpg", 
+                "/images/cat3/chimney2.jpg", 
+                "/images/cat3/chimney3.jpg", 
+                "/images/cat3/chimney4.jpg"
+            ]
+        },
+
+        {
+            "id":6,
+            "category": 3, 
+            "name":"Hutchinson",
+            "Description": "2012 16.0 hand Dutch Warmblood Gelding. Hutchinson AKA Henry is a great confidence builder for the equitation but happily goes in the hunter or jumper ring as well. He is handy, scopey, and fun to ride. NO stop or spook, auto lead changes, and strong flatwork. Henry hacks out in fields alone or in a group. Took his current rider from children's large pony to the 3'3 eq. Due to time constraints, he has shown in the 3 '3 eq and 3' 6 jumpers on our local circuit this summer but has miles in the children's hunters and 3 '3 eq at the A shows. Would consider a trade for a true 3'3 hunter or prospect.",
+            "Price": "50k sale", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/hutchinson1.jpg", 
+                "/images/cat3/hutchinson2.jpg", 
+                "/images/cat3/hutchinson3.jpg", 
+                "/images/cat3/hutchinson4.jpg"
+            ]
+        },
+
+        {
+            "id":7,
+            "category": 3, 
+            "name":"Hornet Obelensky's aka Hornet",
+            "Description": "2016 16.3 hand Warmblood Gelding. Hornet Obelensky's (Humberto ASK x Celano) is a gorgeous imported warmblood gelding built for the equitation ring. With a huge stride and impressive scope, Hornet will be a top contender in the Big Eq ring (including the Talent Search!) He could easily double back and be competitive in derbies. With his even and comfortable canter, the jumps practically find themselves. Hornet has shown at several venues including HITS Saugerties, Fieldstone, Princeton and the World Equestrian Center. Miles up to 3'6 in the hunter ring and up to 1.10m in the jumper ring. No spook or peak. Same horse at home as at the shows. He would be a great fit for a trainer/junior pair looking to bring a high-quality horse to the top of the equitation ranks.",
+            "Price": "50k year lease", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/hornet1.jpg", 
+                "/images/cat3/hornet2.jpg", 
+                "/images/cat3/hornet3.jpg", 
+                "/images/cat3/hornet4.jpg"
+            ]
+        },
+
+        {
+            "id":8,
+            "category": 3, 
+            "name":"Legoland",
+            "Description": "2015 16.1 hand Warmblood Gelding. Lego is an 8yo 16.1h imported Polish Warmblood gelding. He has great ring presence, an extremely comfortable canter, is brave, handy, and fun to ride! With experience in all three rings, he most recently competed in the Adult Gladstone Cup Finals and the 3' M&S Dover Adult Medal Finals. A pleasure to have in the barn, Lego boasts a personality that quickly makes him a barn favorite. Currently showing 3'3 or 1.0m 3+ Years Showing",
+            "Price": "70k sale $30k year lease", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/Legoland1.jpg", 
+                "/images/cat3/Legoland2.jpg", 
+                "/images/cat3/Legoland3.jpg", 
+                "/images/cat3/Legoland4.jpg"
+            ]
+        },
+
+        {
+            "id":9,
+            "category": 3, 
+            "name":"Francesca",
+            "Description": "2009 Holsteiner mare for Sale or Lease. Francesca has been there, done that, dependable mare. Francesca (Fran) started her career in eventing, then was brought to the Equitation/Hunter world where she excelled. Fran has been an excellent 3'6 Equitation/Hunter packer and is now ready to continue her career teaching kids and adults at the 2'6-3'3 heights. She can even pop into jumper classes if you want to have even more fun! Fran truly can do any ring and help build the confidence and strength of her rider. No spook ever, No stop, Never rears, Never Bucks. Fran is a very honest and sweet mare, looking to teach her next rider and take them wherever they want to go!",
+            "Price": "100k sale $65k year lease", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/francesca1.jpg", 
+                "/images/cat3/francesca2.jpg", 
+                "/images/cat3/francesca3.jpg", 
+                "/images/cat3/francesca4.jpg"
+            ]
+        },
+
+        {
+            "id":10,
+            "category": 3, 
+            "name":"Chocco Brownie",
+            "Description": "Wonderful, safe Child/Adult Hunter gelding.  Brownie is the perfect first horse type for a nervous rider, or someone learning the ropes.  He is a superb teacher, kicking quiet, very forgiving, with a slow stylish jump and a cute lead change.  Brownie always gets a piece of the hack.  Best suited short/long stirrup through Pre-childrens.  Great record.  He has impeccable manners, perfect to clip, bathe, load, haul out, and loves to trail ride.",
+            "Price": "25k sale", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/brownie1.jpg",
+                "/images/cat3/brownie2.jpg",
+                "/images/cat3/brownie3.jpg",
+                "/images/cat3/brownie4.jpg" 
+            ]
+        },
+
+        {
+            "id":11,
+            "category": 3, 
+            "name":"MKD Milano",
+            "Description": "MKD Milano is a 2008, 16.3-hand chestnut, KWPN gelding (Warrant—Nightlife) “Beebs” is a top equitation horse  with years of experience in the Big Eq . He jumps open water, liverpools, has auto changes, easy gaits, and is brave, simple and forgiving. You won’t find a better equitation horse for the money. And, if the Junior/Amateur Jumpers are on your radar, he’s your guy, too!",
+            "Price": "70k sale $40k year lease", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/milano1.jpg", 
+                "/images/cat3/milano2.jpg", 
+                "/images/cat3/milano3.jpg", 
+                "/images/cat3/milano4.jpg"
+            ]
+        },
+        {
+            "id":12,
+            "category": 3, 
+            "name":"Kaspar",
+            "Description": "Kaspar is a stunning, sweet dude! This horse loves to please and is wise beyond his years. He is lightly spur ride, soft rubber snaffle mouth. He never looks at the jumps, no spook, no buck, no rear, no play. He is very comfortable to ride across the ground and over fences. He gives his riders a very confident feel. He is an amatuer rider's dream horse... seriously like granny safe guy.. takes all jokes and just keeps jumping. No prep needed to get into the show ring. He wins over fences and on the flat. He has easy lead changes both directions. He has a nice step and plenty of scope for 3'6.  He is easy for everything: hauling, clipping, mane pull. He is easy on the ground and calm in the cross ties. He was imported by us and has been lovely to bring along. He has marched around all the top venues in the country. He recently qualified for and competed at the Las Vegas National Championships and had great results and a nice round in the National derby. He is only for sale because his young-amatuer owner wants to switch over to the jumpers",
+            "Price": "125k sale", 
+            "image": "/", 
+            "gallery": [
+                "/images/cat3/kaspar1.jpg", 
+                "/images/cat3/kaspar2.jpg", 
+                "/images/cat3/kaspar3.jpg", 
+                "/images/cat3/kaspar4.jpg"
+            ]
+        }
+    ]
+}
